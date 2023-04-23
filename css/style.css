@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Castoro Titling', cursive;
+}
+
+h2{
+    font-family: 'Castoro Titling', cursive;
+}
+
+h3{
+    font-family: 'Castoro Titling', cursive;
+}
+
+h4{
+    font-family: 'Castoro Titling', cursive;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
+
+li{
+    font-family: 'Raleway', sans-serif;
+}
+
+.inicio{
+    background-color:darkgrey;
+}
+
+.misrecetas{
+    background-color: lightgray;
+}
+
+.cinnamon{
+    background-color: lightcyan;
+}
+
+.brownie{
+    background-color: lightcyan;
+}
